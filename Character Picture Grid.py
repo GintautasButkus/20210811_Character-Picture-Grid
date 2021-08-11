@@ -13,7 +13,7 @@
 # Think of grid[x][y] as being the character at the x- and y-coordinates
 # of a “picture” drawn with text characters. The (0, 0) origin is in the upperleft
 # corner, the x-coordinates increase going right, and the y-coordinates
-# increase going down.
+# increase going down. 
 # Lists 109
 # Copy the previous grid value, and write code that uses it to print
 # the image.
